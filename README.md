@@ -43,10 +43,11 @@ Lectures are from 12:50pm-2pm in the large lecture hall. A [technical lecture re
 | Reading Week | No Lecture | N/A |
 | May 12 | Charles Puelz, University of Houson; Baylor College of Medicine | Cardiovascular / heart modeling | 
 | May 19 | TBA |  TBA | 
-| May 26 | TBA |  TBA |  
+| May 28* | TBA |  TBA |  
 | June 2 | TBA |  TBA |  
 | Exams Week | No Lecture | N/A |
 
+\*Note that lecture is moved to Wed due to Memorial Day holiday.
 
 ## Office Hours
 Office hours are encouraged and available upon request to the instructor.
