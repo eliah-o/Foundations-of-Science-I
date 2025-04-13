@@ -34,18 +34,18 @@ The oral exam will focus on the following areas from the Feynman lectures:
 
 ## Technical Lectures
 Lectures are from 12:50pm-2pm in the large lecture hall. A [technical lecture reflection](https://github.com/eliah-o/Foundations-of-Science-I/blob/main/Reflections/Technical%20Lecture%20Reflections.pdf) is due the Friday after each technical lecture.
-| Date | Speaker | 
-|---|---|
-| Apr 7 | Dean Ruth, UATX  | 
-| Apr 14  | Alex Le Roux, ICON3D |  
-| Apr 21 | TBA |   
-| Apr 28 | Justin Lopas, Base Power |  
-| Reading Week | No Lecture |
-| May 12 | TBA |  
-| May 19 | TBA |  
-| May 26 | TBA |  
-| June 2 | TBA |  
-| Exams Week | No Lecture |
+| Date | Speaker | Topic |
+|---|---|---|
+| Apr 7 | Dean Ruth, UATX  | Mechanics and Sonar |
+| Apr 14  | Alex Le Roux, ICON3D |  Engineering |
+| Apr 21 | TBA |  TBA |  
+| Apr 28 | Justin Lopas, Base Power |  Energy |
+| Reading Week | No Lecture | N/A |
+| May 12 | Charles Puelz, University of Houson; Baylor College of Medicine | Cardiovascular / heart modeling | 
+| May 19 | TBA |  TBA | 
+| May 26 | TBA |  TBA |  
+| June 2 | TBA |  TBA |  
+| Exams Week | No Lecture | N/A |
 
 
 ## Office Hours
