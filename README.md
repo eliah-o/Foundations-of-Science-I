@@ -38,7 +38,7 @@ Lectures are from 12:50pm-2pm in the large lecture hall. A [technical lecture re
 |---|---|---|
 | Apr 7 | Dean Ruth, UATX  | Mechanics and Sonar |
 | Apr 14  | Alex Le Roux, ICON3D |  Engineering |
-| Apr 21 | TBA |  TBA |  
+| Apr 21 | No Speaker. [Research Reflection Assignment](https://github.com/eliah-o/Foundations-of-Science-I/blob/main/Reflections/Research%20Reflection.pdf) Due Friday |  N/A |  
 | Apr 28 | Justin Lopas, Base Power |  Energy |
 | Reading Week | No Lecture | N/A |
 | May 12 | Charles Puelz, University of Houson; Baylor College of Medicine | Cardiovascular / heart modeling | 
