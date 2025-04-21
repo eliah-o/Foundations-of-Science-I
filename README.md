@@ -9,9 +9,9 @@ The goal of this class is to:
 To achieve point 3, the university will arrange different speakers to be brought to campus for lunch lectures. On days where there is a lunch lecture, there will be no class in the afternoon. 
 
 ## Grading
-- 10% = reading week essay on scientific paradigms
+- 15% = reading week essay on scientific paradigms
 - 30% = technical lecture/reading reflections
-- 15% = oral exam in-class practice sessions
+- 20% = oral exam in-class practice sessions
 - 35% = oral exam (to be scheduled during finals week)
 
 ## Required Text
