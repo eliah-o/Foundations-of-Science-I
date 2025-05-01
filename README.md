@@ -44,9 +44,9 @@ Lectures are from 12:50pm-2pm in the large lecture hall. A [technical lecture re
 | Apr 28 | Justin Lopas, Base Power |  Energy |
 | Reading Week | No Lecture | N/A |
 | May 12 | Charles Puelz, University of Houson; Baylor College of Medicine | Cardiovascular / heart modeling | 
-| May 19 | TBA |  TBA | 
-| May 28* | TBA |  TBA |  
-| June 2 | TBA |  TBA |  
+| May 19 | Mike Eros, Sage Geosystems |  Pressure/Thermo, Geology, Energy | 
+| May 28* | L Herrera, Firefly Aerospace |  Rocket Engineering Systems |  
+| June 2 | Dean Ruth, UATX |  Nuclear Power |  
 | Exams Week | No Lecture | N/A |
 
 \*Note that lecture is moved to Wed due to Memorial Day holiday.
