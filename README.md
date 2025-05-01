@@ -9,7 +9,7 @@ The goal of this class is to:
 To achieve point 3, the university will arrange different speakers to be brought to campus for lunch lectures. On days where there is a lunch lecture, there will be no class in the afternoon. 
 
 ## Grading
-- 15% = reading week essay on scientific paradigms
+- 15% = reading week essay on scientific paradigms ([assignment link](https://github.com/eliah-o/Foundations-of-Science-I/blob/main/Reading%20Week%20Essay%20Assignment.pdf))
 - 30% = technical lecture/reading reflections
 - 20% = oral exam in-class practice sessions
 - 35% = oral exam (to be scheduled during finals week)
@@ -23,6 +23,8 @@ Students must acquire 2 of the following texts before reading week. Each student
 - [The Structure of Scientfic Revolutions](https://www.amazon.com/dp/0226458121/?bestFormat=true&k=the%20structure%20of%20scientific%20revolutions&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_30&crid=2EYJOWH8FGEI5&sprefix=The%20Structure%20of%20Scientific%20Re), Thomas Kuhn (1962)
 - [The Methodology of Scientific Research Programmes: Volume 1: Philosophical Papers](https://www.amazon.com/Methodology-Scientific-Research-Programmes-Philosophical-ebook/dp/B01LY9SAEY/ref=sr_1_1?crid=351KJZQBOIJIR&dib=eyJ2IjoiMSJ9.SLkjMNK409XVW46LuaaBhYWujtfeBj05YOaBzfkLH6q1U0wAAX5NbcFOH32VnLI42SMxxqcK9NgkScXe2O79hexeQM_BVzPvPhQ-IyjvU3Bgfgm7S6D5gzCmLzXpVMhjmIJM_UJ2vBohnE4gtrAEu1RRp-xUHCKIEDqFJOpssyQLX68VbH08lD_4c4OzSpCkM7CsO8R3EOzxm8ZXSWtnxDRrRGq-9Y_vP7SSZ71OrMI.KdjNeuXlREOqKLrczsGB7zGA_WfLGMlJ61AZa5GolSU&dib_tag=se&keywords=the+methodology+of+scientific+research+programmes&qid=1743430084&sprefix=the+methodology+of+%2Caps%2C189&sr=8-1), Lakatos (1978)
 - [Against Method](https://www.amazon.com/Against-Method-Paul-Feyerabend/dp/1844674428/ref=sr_1_1?crid=2Y1MDUXUJZDUG&dib=eyJ2IjoiMSJ9.xbJne67XwommgEZcSN4BtNJ7SNntKM-j4pgg39rzcpee4xXvB6hjXn__kvsAUowA3_8p7M2qRnDKvSZQRkY9E8tGxBF3lkGpBll99k-PNdoeStNGim65QRGbZuRPkmONKuRq8CiXeShOpJ0WNhiam_F9Z9Ua4KGlCMWfZE7PxvsjXD469LB5GZMRSI99TyL8Yd86TruaXG7VrhWA9v-_CF189Hih3lKGxSaYFCIL-cM.O6E5i4vEAV2KuB7uB9oG8Dw1RTvYWXZaOAxV7NrxM4Q&dib_tag=se&keywords=against+method&qid=1743430287&sprefix=against+metho%2Caps%2C181&sr=8-1), Feyerabend (1975)
+
+Reading Week Assignment Instructions: [here](https://github.com/eliah-o/Foundations-of-Science-I/blob/main/Reading%20Week%20Essay%20Assignment.pdf)
 
 ## Core Principles of Physics 
 The oral exam will focus on the following areas from the Feynman lectures: 
